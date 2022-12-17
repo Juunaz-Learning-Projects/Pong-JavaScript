@@ -1,27 +1,27 @@
-// Variáveis: Bolinha
+//Variáveis: Bolinha
 let xBolinha = 300;
 let yBolinha = 200;
 let diametro = 15;
 let raio = diametro / 2;
 
-// Variáveis: Velocidade da Bolinha
+//Variáveis: Velocidade da Bolinha
 let velocidadeXBolinha = 5;
 let velocidadeYBolinha = 5;
 
-// Variáveis: Raquete
+//Variáveis: Raquete
 
 let xRaquete = 5;
 let yRaquete = 150;
 let raqueteComp = 10;
 let raqueteAlt = 90;
 
-// Variáveis: Raquete do Oponente
+//Variáveis: Raquete do Oponente
 
 let xRaqueteOp = 585;
 let yRaqueteOp = 150;
 let velocidadeYOp;
 
-// Variáveis: Placar do Jogo
+//Variáveis: Placar do Jogo
 let meusPontos = 0;
 let pontosOp = 0;
 
